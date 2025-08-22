@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="amitsingh-codes" /> </p>
 
-- 🔭 I’m currently working on **frontend development**
+- 🔭 I’m currently working on **frontend development.**
 
-- 🌱 I’m currently learning **full stack development**
+- 🌱 I’m currently learning **full stack development.**
 
 - 📫 How to reach me **amitsinghkunwar77@gmail.com**
 
-- ⚡ Fun fact **I am very passionate about coding,problem solving and photography**
+- ⚡ Fun fact **I am very passionate about coding,problem solving and photography.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
