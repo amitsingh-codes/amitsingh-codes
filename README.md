@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **amitsinghkunwar77@gmail.com**
 
-- ⚡ Fun fact **I am very passionate about coding and problem solving**
+- ⚡ Fun fact **I am very passionate about coding,problem solving and photography**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
