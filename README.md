@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitsingh-codes&label=Profile%20views&color=0e75b6&style=flat" alt="amitsingh-codes" /> </p>
 
-- 🔭 I’m currently working on **frontend development.**
+- 🔭 I’m currently working on **full stack development.**
 
 - 🌱 I’m currently learning **full stack development.**
 
